@@ -1,6 +1,6 @@
 # Landing-Page-Eduarda-Duarte
 
-Este projeto é um site profissional desenvolvido para uma profissional da área de estética. O objetivo é apresentar seus serviços, aumentar sua presença online e facilitar o contato com clientes por meio de um design moderno, responsivo e focado na conversão.
+Este projeto é uma landing page básica desenvolvido para uma profissional da área de estética. O objetivo é apresentar seus serviços, aumentar sua presença online e facilitar o contato com clientes por meio de um design moderno, responsivo e focado na conversão.
 
 ⚠️ Atenção:
 Se você apenas baixar os arquivos, o site pode não funcionar corretamente.
