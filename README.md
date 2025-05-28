@@ -1,4 +1,4 @@
-# Landing-Page-Eduarda-Duarte
+# Estilo-de-Landing-Page-Básica
 
 Este projeto é uma landing page básica desenvolvido para uma profissional da área de estética. O objetivo é apresentar seus serviços, aumentar sua presença online e facilitar o contato com clientes por meio de um design moderno, responsivo e focado na conversão.
 
